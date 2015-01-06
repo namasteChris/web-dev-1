@@ -18,8 +18,7 @@ html {
 }
 
 a:active,
-a:visited,
-a:hover {
+a:visited {
 	text-decoration: none;
 	color: darkgrey;
 }
@@ -60,6 +59,11 @@ h1 {
 	box-shadow: 10px 10px 0 rgba(0,0,0,0.3);
 	border-radius: 10px;
 	text-decoration: none;
+}
+
+.button-group a:hover {
+	background-color: #B23697;
+	color: #fff;
 }
 
 .button-group i {
