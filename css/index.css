@@ -28,6 +28,14 @@ body {
 	background-color: #890B68;
 }
 
+h1 {
+	color: white;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 4em;
+
+	margin: 16px;
+}
+
 .button-group a {
 	display: inline-block;
 	font-family: "Source Sans Pro", sans-serif;
