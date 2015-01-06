@@ -29,7 +29,7 @@ body {
 }
 
 header {
-	background-color: black;
+	background-color: #590844;
 	margin: -16px -8px 0;
 	padding: 8px;
 }
@@ -43,8 +43,8 @@ h1 {
 }
 
 .button-group {
-	width: 70%;
-	margin: 70px auto 0;
+	width: 80%;
+	margin: 100px auto 0;
 }
 
 .button-group a {
